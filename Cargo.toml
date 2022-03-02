@@ -2,7 +2,7 @@
 name = "superZenBreakoutBevy"
 version = "0.1.0"
 authors = ["thegrimderp <admin@superzen.org>"]
-edition = "2018"
+edition = "2022"
 
 
 
